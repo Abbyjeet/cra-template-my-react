@@ -1,0 +1,26 @@
+{
+    "name": "cra-template-my-react",
+    "version": "1.0.0",
+    "keywords": [
+      "react",
+      "create-react-app",
+      "template",
+      "my-react",
+      "cra-template-my-react"
+    ],
+    "description": "The customised template for Create React App with opinionated folder structure",
+    "author": "Abhijit Jathar",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/abbyjeet/cra-template-my-react.git",
+      "directory": "packages/cra-template"
+    },
+    "license": "MIT",
+    "engines": {
+      "node": ">=10"
+    },
+    "files": [
+      "template",
+      "template.json"
+    ]
+  }
