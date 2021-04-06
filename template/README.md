@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a custom template with opinionated folder structure.\
 It has also been configured to use absolute paths for the directories
 (as explained in this [blog](https://dev.to/mr_frontend/absolute-imports-in-create-react-app-3ge8)]\
-[ _Author: [Abhijit Jathar](https://github.com/Abbyjeet)_ ]
+[ _Author: [Abhijit Jathar](https://github.com/abbyjeet)_ ]
 
 ## Folder structure
 ```
