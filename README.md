@@ -8,7 +8,7 @@ It has also been configured to use absolute paths for the directories
 ## Folder structure
 ```
 src
-|---_assets
+|---assets
 |       (static files ex. images, global css)
 |---adapters
 |       (Connectors of application to outside world)

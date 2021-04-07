@@ -1,4 +1,4 @@
-import logo from '_assets/logo.svg';
+import logo from 'assets/logo.svg';
 import './hello-react.css';
 
 function Hello() {

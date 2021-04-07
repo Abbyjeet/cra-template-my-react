@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import '_assets/index.css';
+import 'assets/index.css';
 import Hello from 'components/hello-react-component/hello-react';
 import reportWebVitals from './reportWebVitals';
 
