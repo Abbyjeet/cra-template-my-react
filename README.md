@@ -1,7 +1,7 @@
-# Template with opinionated folder structure
+# React template with opinionated folder structure
 
 ## About this template
-This is a custom template with opinionated folder structure. [More here](template/README.md)
+This is a custom react template with opinionated folder structure. [More here](template/README.md)
 
 ## Folder structure
 ```
